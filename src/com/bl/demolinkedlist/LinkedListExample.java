@@ -17,7 +17,9 @@ public class LinkedListExample {
 
         linkedList.addLast("Jayesh");
 
-        linkedList.add(3,"and Punit");
+        linkedList.add(3,", Punit");
+
+        linkedList.add(4, "and sardar");
 
         // Using the Get method and the
         // for loop
